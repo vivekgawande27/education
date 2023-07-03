@@ -20,5 +20,9 @@
       "level" : "Company C (80% owned)",
       "amount" : "800"
     } 
+    {
+      "level" : "Company C (80% owned)",
+      "amount" : "500"
+    } 
   ]
 }
